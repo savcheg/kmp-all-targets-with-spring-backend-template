@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: serverApp
+logging:
+  level:
+    root: debug
